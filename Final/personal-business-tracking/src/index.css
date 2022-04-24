@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ant-table-thead > tr > th {
+  color: #757575 !important;
+  background: #e4eafd !important;
+  font-weight: bold !important;
+}
