@@ -23,7 +23,7 @@ const Layout = () => {
       <div className="footer flex justify-between w-350 desktop:w-950 tablet:w-625 h-16 bg-gray-200 mt-32 mb-10 px-4 py-4">
         <div>
           <a
-            href="https://github.com/Semcester/personal-business-tracking"
+            href="https://github.com/Semcester/personal-business-tracking/tree/master/Final"
             className="flex items-center space-x-2 "
           >
             <div className="w-10 h-10 bg-orange-400 rounded-md grid place-items-center text-md font-bold text-orange-600">
